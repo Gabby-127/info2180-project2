@@ -52,7 +52,7 @@ A customer relationship management (CRM) system built with PHP, MySQL, and AJAX 
 
 - Go to http://localhost/dolphin_crm/index.php
 - Login with:
-  - **Email**: dmin@project2.com
+  - **Email**: admin@project2.com
   - **Password**: password123
 
 ### 2. Test User Creation
@@ -135,7 +135,6 @@ dolphin_crm/
     styles.css         # Application styling
  js/
     scripts.js         # AJAX and UI functionality
- img/                   # Image assets
 `
 
 ## Database Schema

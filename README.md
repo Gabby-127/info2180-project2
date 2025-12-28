@@ -58,8 +58,9 @@ A customer relationship management (CRM) system built with PHP, MySQL, and AJAX 
 ### 2. Test User Creation
 
 1. Click **Users**  **+ Add User**
-2. Enter valid user information:
-   - First Name: Jane
+2. Enter valid user information 
+   Example:
+   - First Name: Jane 
    - Last Name: Doe
    - Email: jane@example.com
    - Password: Must contain 1 uppercase, 1 lowercase, 1 number (e.g., Password123)

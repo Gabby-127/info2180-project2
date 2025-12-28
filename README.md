@@ -197,7 +197,7 @@ System.Management.Automation.Internal.Host.InternalHost = 'localhost';
 
 ## License
 
-This project is part of INFO 2180 - Web Systems Project 2.
+This project is part of INFO 2180 - Dynamic Web Development 1 Project 2.
 
 ---
 
